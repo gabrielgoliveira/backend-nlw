@@ -1,1 +1,4 @@
 node_modules/
+*.sqlite
+.vscode/
+src/server-aula-1-2.ts/
